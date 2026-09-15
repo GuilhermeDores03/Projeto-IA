@@ -1,4 +1,4 @@
-#Tutor Inteligente — Projeto de Inteligência Artificial (7ºJ SI)
+Tutor Inteligente — Projeto de Inteligência Artificial (7ºJ SI)
 
 Assistente baseado em Modelos de Linguagem (LLM) para apoio ao estudo no Ensino Fundamental — projeto da disciplina de Inteligência Artificial (Prof. Zerbinatti), reaproveitando o tema do TCC do grupo.
 
