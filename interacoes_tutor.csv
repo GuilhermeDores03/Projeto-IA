@@ -1,0 +1,151 @@
+interacao_id,aluno_id,data_interacao,topico,nivel_dificuldade,pergunta_aluno,resposta_assistente,acertou_exercicio,tempo_resposta_seg
+1,ALU012,2026-09-04 08:00,Multiplicação,fácil,Qual é a tabuada do 7?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,21
+2,ALU001,2026-08-15 15:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,29
+3,ALU004,2026-08-29 16:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,0,40
+4,ALU013,2026-08-28 12:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,31
+5,ALU004,2026-08-07 12:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,41
+6,ALU013,2026-08-30 15:00,Geometria - Ângulos,difícil,Como meço um ângulo com o transferidor?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,1,83
+7,ALU002,2026-08-24 16:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,23
+8,ALU001,2026-08-19 08:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,47
+9,ALU007,2026-08-24 12:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,60
+10,ALU012,2026-08-05 16:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,58
+11,ALU003,2026-09-05 10:00,Divisão,médio,Como faço a divisão de 144 por 12?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,41
+12,ALU004,2026-08-21 13:00,Geometria - Ângulos,difícil,Qual a diferença entre ângulo agudo e obtuso?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,0,125
+13,ALU004,2026-08-14 17:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,25
+14,ALU015,2026-08-30 09:00,Ortografia,fácil,Por que 'exceção' tem C e Ç?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,0,16
+15,ALU004,2026-08-28 21:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,23
+16,ALU004,2026-08-09 15:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,0,17
+17,ALU013,2026-08-28 16:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,26
+18,ALU007,2026-08-30 15:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,25
+19,ALU011,2026-08-18 19:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,38
+20,ALU005,2026-08-30 07:00,Geometria - Ângulos,difícil,Qual a diferença entre ângulo agudo e obtuso?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,1,49
+21,ALU009,2026-09-10 15:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,52
+22,ALU006,2026-09-04 19:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,61
+23,ALU006,2026-08-20 10:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,54
+24,ALU015,2026-08-06 08:00,Frações,médio,Como faço para somar 1/3 com 1/4?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,53
+25,ALU013,2026-09-05 09:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,26
+26,ALU004,2026-08-13 18:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,59
+27,ALU011,2026-08-08 10:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,29
+28,ALU006,2026-09-05 10:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,85
+29,ALU002,2026-08-03 20:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,82
+30,ALU009,2026-09-01 10:00,Geometria - Ângulos,difícil,Qual a diferença entre ângulo agudo e obtuso?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,1,78
+31,ALU004,2026-08-07 17:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,0,48
+32,ALU007,2026-08-04 17:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,16
+33,ALU007,2026-08-13 10:00,Multiplicação,fácil,Qual é a tabuada do 7?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,20
+34,ALU007,2026-08-30 10:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,17
+35,ALU013,2026-09-04 20:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,0,18
+36,ALU015,2026-08-16 09:00,Frações,médio,Como faço para somar 1/3 com 1/4?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,0,43
+37,ALU008,2026-08-25 07:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,
+38,ALU015,2026-08-30 11:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,21
+39,ALU003,2026-09-04 07:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,20
+40,ALU001,2026-09-02 21:00,Geometria - Ângulos,difícil,Qual a diferença entre ângulo agudo e obtuso?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,0,82
+41,ALU009,2026-08-16 13:00,Divisão,médio,Como faço a divisão de 144 por 12?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,52
+42,ALU010,2026-09-09 08:00,Multiplicação,fácil,Qual é a tabuada do 7?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,27
+43,ALU015,2026-08-17 13:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,17
+44,ALU008,2026-08-05 07:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,34
+45,ALU002,2026-08-23 21:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,16
+46,ALU006,2026-08-29 20:00,Multiplicação,fácil,Qual é a tabuada do 7?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,19
+47,ALU011,2026-08-09 11:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,38
+48,ALU012,2026-08-18 11:00,Multiplicação,fácil,Qual é a tabuada do 7?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,28
+49,ALU004,2026-08-17 21:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,91
+50,ALU011,2026-08-18 07:00,Frações,médio,Como faço para somar 1/3 com 1/4?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,32
+51,ALU013,2026-08-29 15:00,Frações,médio,Por que preciso achar o MMC nas frações?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,52
+52,ALU002,2026-08-10 15:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,19
+53,ALU010,2026-08-24 21:00,Frações,médio,Por que preciso achar o MMC nas frações?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,41
+54,ALU004,2026-08-07 12:00,Frações,médio,Por que preciso achar o MMC nas frações?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,0,46
+55,ALU015,2026-08-12 21:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,0,30
+56,ALU003,2026-08-22 19:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,7
+57,ALU005,2026-08-03 20:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,18
+58,ALU004,2026-08-30 12:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,14
+59,ALU004,2026-08-05 19:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,49
+60,ALU011,2026-09-04 12:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,
+61,ALU015,2026-08-17 07:00,Frações,médio,Como faço para somar 1/3 com 1/4?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,0,60
+62,ALU006,2026-08-21 13:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,
+63,ALU015,2026-08-01 15:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,19
+64,ALU007,2026-08-22 16:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,110
+65,ALU012,2026-08-21 13:00,Geometria - Ângulos,difícil,Qual a diferença entre ângulo agudo e obtuso?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,0,41
+66,ALU004,2026-08-25 17:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,44
+67,ALU007,2026-08-28 19:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,56
+68,ALU008,2026-08-14 15:00,Geometria - Ângulos,difícil,Como meço um ângulo com o transferidor?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,1,75
+69,ALU011,2026-08-22 08:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,11
+70,ALU004,2026-08-10 07:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,71
+71,ALU008,2026-09-10 16:00,Frações,médio,Como faço para somar 1/3 com 1/4?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,46
+72,ALU008,2026-08-10 17:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,50
+73,ALU013,2026-09-03 14:00,Frações,médio,Como faço para somar 1/3 com 1/4?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,60
+74,ALU004,2026-08-08 14:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,0,75
+75,ALU011,2026-08-29 16:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,34
+76,ALU015,2026-08-31 14:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,18
+77,ALU014,2026-09-10 10:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,46
+78,ALU002,2026-08-16 11:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,28
+79,ALU015,2026-08-10 18:00,Geometria - Ângulos,difícil,Como meço um ângulo com o transferidor?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,0,85
+80,ALU007,2026-09-04 14:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,87
+81,ALU004,2026-08-02 20:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,12
+82,ALU001,2026-08-20 19:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,0,26
+83,ALU009,2026-08-15 14:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,12
+84,ALU007,2026-08-25 12:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,66
+85,ALU014,2026-08-02 21:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,25
+86,ALU002,2026-08-09 20:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,26
+87,ALU001,2026-08-22 19:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,16
+88,ALU013,2026-08-27 11:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,0,25
+89,ALU001,2026-08-15 17:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,33
+90,ALU013,2026-08-16 10:00,Multiplicação,fácil,Qual é a tabuada do 7?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,24
+91,ALU003,2026-08-14 14:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,38
+92,ALU003,2026-08-08 19:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,46
+93,ALU002,2026-08-25 13:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,60
+94,ALU010,2026-09-10 10:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,62
+95,ALU014,2026-09-06 19:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,23
+96,ALU009,2026-08-24 08:00,Frações,médio,Por que preciso achar o MMC nas frações?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,22
+97,ALU014,2026-08-24 17:00,Geometria - Ângulos,difícil,Qual a diferença entre ângulo agudo e obtuso?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,1,51
+98,ALU007,2026-09-03 17:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,20
+99,ALU008,2026-08-16 20:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,43
+100,ALU015,2026-08-30 16:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,15
+101,ALU001,2026-08-23 19:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,16
+102,ALU005,2026-08-18 15:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,58
+103,ALU004,2026-08-16 18:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,42
+104,ALU008,2026-08-06 11:00,Ortografia,fácil,Por que 'exceção' tem C e Ç?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,13
+105,ALU012,2026-09-05 15:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,63
+106,ALU012,2026-08-23 18:00,Geometria - Ângulos,difícil,Como meço um ângulo com o transferidor?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,0,56
+107,ALU005,2026-08-08 18:00,Ortografia,fácil,Por que 'exceção' tem C e Ç?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,22
+108,ALU004,2026-08-18 18:00,Divisão,médio,Como faço a divisão de 144 por 12?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,0,51
+109,ALU014,2026-08-01 18:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,46
+110,ALU001,2026-09-05 11:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,0,53
+111,ALU002,2026-08-29 12:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,0,31
+112,ALU005,2026-08-31 08:00,Divisão,médio,Como faço a divisão de 144 por 12?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,0,38
+113,ALU008,2026-08-10 19:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,18
+114,ALU004,2026-08-27 16:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,41
+115,ALU008,2026-08-28 11:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,66
+116,ALU012,2026-08-14 17:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,62
+117,ALU011,2026-08-11 07:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,76
+118,ALU012,2026-08-19 07:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,27
+119,ALU012,2026-08-15 21:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,
+120,ALU007,2026-08-15 17:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,40
+121,ALU014,2026-09-08 18:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,67
+122,ALU002,2026-08-20 18:00,Gramática - Concordância,médio,Como concordar verbo com sujeito composto?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,53
+123,ALU009,2026-08-28 18:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,12
+124,ALU001,2026-09-06 16:00,Geometria - Ângulos,difícil,Como meço um ângulo com o transferidor?,Explicação passo a passo sobre geometria - ângulos adaptada ao 6º-9º ano.,1,86
+125,ALU014,2026-08-31 15:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,66
+126,ALU003,2026-08-28 17:00,Ortografia,fácil,Por que 'exceção' tem C e Ç?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,0,22
+127,ALU008,2026-08-11 12:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,15
+128,ALU005,2026-08-26 20:00,Sistema Solar,fácil,Por que a Terra tem estações do ano?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,
+129,ALU002,2026-08-26 20:00,Frações,médio,Por que preciso achar o MMC nas frações?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,29
+130,ALU014,2026-08-27 07:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,77
+131,ALU010,2026-08-14 11:00,Interpretação de Texto,difícil,Como identifico o narrador de uma história?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,0,48
+132,ALU008,2026-09-01 08:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,0,28
+133,ALU010,2026-08-01 15:00,Frações,médio,Como simplificar 6/8?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,0,42
+134,ALU004,2026-08-08 14:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,0,14
+135,ALU008,2026-08-27 20:00,Multiplicação,fácil,Qual é a tabuada do 7?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,0,17
+136,ALU004,2026-08-10 13:00,Ortografia,fácil,Por que 'exceção' tem C e Ç?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,29
+137,ALU014,2026-08-22 21:00,Interpretação de Texto,difícil,Qual é a ideia principal desse parágrafo?,Explicação passo a passo sobre interpretação de texto adaptada ao 6º-9º ano.,1,81
+138,ALU005,2026-09-07 16:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,0,18
+139,ALU008,2026-09-04 13:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,15
+140,ALU014,2026-08-16 16:00,Ortografia,fácil,Por que 'exceção' tem C e Ç?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,26
+141,ALU014,2026-08-25 13:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,29
+142,ALU001,2026-09-07 12:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,51
+143,ALU002,2026-08-27 20:00,Multiplicação,fácil,Como multiplico números com dois dígitos?,Explicação passo a passo sobre multiplicação adaptada ao 6º-9º ano.,1,10
+144,ALU008,2026-08-17 12:00,Divisão,médio,Como faço a divisão de 144 por 12?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,0,50
+145,ALU014,2026-08-21 17:00,Sistema Solar,fácil,Quais são os planetas do sistema solar?,Explicação passo a passo sobre sistema solar adaptada ao 6º-9º ano.,1,16
+146,ALU010,2026-09-10 17:00,Ortografia,fácil,Quando uso 'mas' e quando uso 'mais'?,Explicação passo a passo sobre ortografia adaptada ao 6º-9º ano.,1,13
+147,ALU012,2026-08-07 14:00,Gramática - Concordância,médio,Por que 'os menino' está errado?,Explicação passo a passo sobre gramática - concordância adaptada ao 6º-9º ano.,1,67
+148,ALU015,2026-08-21 19:00,Divisão,médio,O que fazer quando a divisão não é exata?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,41
+149,ALU006,2026-09-06 17:00,Frações,médio,Por que preciso achar o MMC nas frações?,Explicação passo a passo sobre frações adaptada ao 6º-9º ano.,1,55
+150,ALU003,2026-08-25 16:00,Divisão,médio,Como faço a divisão de 144 por 12?,Explicação passo a passo sobre divisão adaptada ao 6º-9º ano.,1,
