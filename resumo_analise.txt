@@ -1,0 +1,29 @@
+Total de registros: 150
+Alunos/IDs distintos: 15
+Tópicos distintos: 8
+Registros com acerto: 102
+Registros com erro: 48
+Taxa de acerto global: 68.0%
+Tempos ausentes antes do tratamento: 6
+Tempo médio (s), após tratamento: 40.59
+
+Distribuição por tópico:
+                          interacoes  taxa_acerto  tempo_medio_seg
+topico                                                            
+Sistema Solar                     25     0.800000        19.600000
+Gramática - Concordância          23     0.521739        41.782609
+Frações                           21     0.714286        49.285714
+Interpretação de Texto            19     0.473684        70.263158
+Multiplicação                     17     0.882353        21.117647
+Divisão                           17     0.588235        45.941176
+Ortografia                        17     0.882353        18.647059
+Geometria - Ângulos               11     0.545455        73.727273
+
+Distribuição por dificuldade:
+                   interacoes  taxa_acerto  tempo_medio_seg
+nivel_dificuldade                                          
+difícil                    30     0.500000        71.533333
+fácil                      59     0.847458        19.762712
+médio                      61     0.606557        45.524590
+
+Limitação: o README original classifica o arquivo como exemplo/placeholder. Os resultados descrevem somente esse arquivo e não comprovam desempenho real de alunos.
