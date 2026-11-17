@@ -54,7 +54,7 @@ Projeto-IA/
 
 ## Integrante
 
-Guilherme Dores — dados de identificação devem ser conferidos antes da entrega.
+Guilherme Augusto Zorzenon das Dores Dores
 
 ## Próximas melhorias possíveis
 
